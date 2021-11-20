@@ -1,5 +1,3 @@
-在[原仓库](https://github.com/xyu/heroku-wp)，做了一些修改，可以参考[本博客](https://www.itansuo.info/411)。
-
 Heroku WP
 =========
 
@@ -10,7 +8,7 @@ Spin Up a Demo
 
 Want to give it a try first? Deploy a demo to your account:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aaro-n/heroku-wp)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/renvlers/my-wp)
 
 _For production setups it's highly recommended to follow the instructions below to properly install and version control with your own repo._
 
