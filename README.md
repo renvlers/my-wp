@@ -6,10 +6,6 @@ This is a template for installing and running [WordPress](http://wordpress.org/)
 Spin Up a Demo
 --------------
 
-Want to give it a try first? Deploy a demo to your account:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/renvlers/my-wp)
-
 _For production setups it's highly recommended to follow the instructions below to properly install and version control with your own repo._
 
 About
